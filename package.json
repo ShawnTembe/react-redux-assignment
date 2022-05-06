@@ -1,16 +1,22 @@
 {
   "name": "react-redux-test",
   "version": "1.0.0",
-  "description": "Ex.Co candidate home test",
+  "description": "Ex.Co test",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.1",
     "array-move": "^4.0.0",
+    "axios": "^0.27.2",
     "react": "16.8.6",
+    "react-bootstrap-icons": "^1.8.1",
     "react-dom": "16.8.6",
     "react-draggable": "4.0.3",
+    "react-redux": "^8.0.1",
     "react-scripts": "3.0.1",
     "react-sortable-hoc": "^1.10.1",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
     "styled-components": "4.4.0"
   },
   "devDependencies": {
